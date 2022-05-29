@@ -1,9 +1,8 @@
-function generateReadMe(answers){
-    return `
-    <h1> ${answers.projectTitle}<h1>
+
+    <h1> Node challenge<h1>
 
     ## Project Description
-    ${answers.projectDescription}
+    An introductory project outlining the node.js framework
 
     ## Table of Contents
     - [Description](#description)
@@ -16,27 +15,24 @@ function generateReadMe(answers){
     - [Email](#Email)
 
     ## Installation
-    ${answers.installation}
+    Use NPM to install inquirer with the following command in the intergrated terminal. npm i inquirer
 
     ## Usage
-    ${answers.use}
+    Education purposes
 
     ## License
-    ![badge](https://img.shields.io/badge/license-${answers.license}-blue)
+    ![badge](https://img.shields.io/badge/license-Academic-blue)
     <br />
 
     ## Contributors
-    ${answers.contributors}
+    Michael Ishmail
 
     ## Test
-    ${answers.test}
+    Yes
 
     ## GitHub Username
-    ${answers.username}
+    Michael-Ishmail
 
     ## Email
-    ${answers.email}
-    `
-}
-
-module.exports = generateReadMe;
+    michaely.ishmail@gmail.com
+    
