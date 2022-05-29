@@ -2,7 +2,7 @@
     <h1> Node challenge<h1>
 
     ## Project Description
-    An introductory project outlining the node.js framework
+    A brief challenge using node.js as well as an npm package called inquirer
 
     ## Table of Contents
     - [Description](#description)
@@ -15,10 +15,10 @@
     - [Email](#Email)
 
     ## Installation
-    Use NPM to install inquirer with the following command in the intergrated terminal. npm i inquirer
+    To install inquirer, open the integreated terminal and use the following command. npm i inquirer
 
     ## Usage
-    Education purposes
+    academics
 
     ## License
     ![badge](https://img.shields.io/badge/license-Academic-blue)
@@ -34,5 +34,5 @@
     Michael-Ishmail
 
     ## Email
-    michaely.ishmail@gmail.com
+    michaely.ishmail@Gmail.com
     
