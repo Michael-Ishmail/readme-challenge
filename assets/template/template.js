@@ -1,6 +1,6 @@
 function generateReadMe(answers){
     return `
-    <h1> ${answers.projectTitle}<h1>
+    ${answers.projectTitle}
 
     ## Project Description
     ${answers.projectDescription}
