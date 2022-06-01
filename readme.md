@@ -5,6 +5,8 @@ Below is a demonstration of the program, as well as the GitHub repository link. 
 
 [demo](./Demo/demo.gif)
 
+I was asked to resubmit the assignent with a link to my demo on a video streaming platform. My previous submission only had the demo file videos uploaded to the repository. Below is a link to a youtube video showcasing my code.
+
 https://www.youtube.com/watch?v=8oLFnFNyDC4
 
 https://github.com/Michael-Ishmail/readme-challenge
